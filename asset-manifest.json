@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/interiordesign/static/css/main.d42e8318.css",
+    "main.js": "/interiordesign/static/js/main.c871002c.js",
+    "static/media/gallery-2.jpg": "/interiordesign/static/media/gallery-2.259393860d6192956205.jpg",
+    "static/media/interior.png": "/interiordesign/static/media/interior.cdad2ad94041f37a441b.png",
+    "static/media/gallery-5.jpg": "/interiordesign/static/media/gallery-5.4726f065b5c8b94551d7.jpg",
+    "static/media/gallery-6.jpg": "/interiordesign/static/media/gallery-6.bbde1058772e9f95c69e.jpg",
+    "static/media/gallery-1.jpg": "/interiordesign/static/media/gallery-1.0175b79fdbc3ab1fdfc1.jpg",
+    "static/media/gallery-4.jpg": "/interiordesign/static/media/gallery-4.e7d03961faca2fa80ad5.jpg",
+    "static/media/gallery-3.jpg": "/interiordesign/static/media/gallery-3.307e0b4c6ceb93dddbf9.jpg",
+    "index.html": "/interiordesign/index.html",
+    "main.d42e8318.css.map": "/interiordesign/static/css/main.d42e8318.css.map",
+    "main.c871002c.js.map": "/interiordesign/static/js/main.c871002c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d42e8318.css",
+    "static/js/main.c871002c.js"
+  ]
+}
